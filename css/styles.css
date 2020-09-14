@@ -413,3 +413,27 @@ padding-bottom: 2%;
 .desc-recipe{
 text-align: center;
 }
+
+@media (max-width:500px) {
+.desc-recipe{
+  padding-left: 10%;
+}
+}
+
+@media (max-width:500px) {
+.feature-box {
+  padding-left: 10%;
+}
+}
+
+
+@media (max-width:560px) {
+p{
+  font-size: 24px;
+}
+
+a{
+  font-size: 24px;
+}
+
+}
