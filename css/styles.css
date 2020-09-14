@@ -437,3 +437,12 @@ a{
 }
 
 }
+
+
+@media (max-width:560px) {
+
+a{
+  font-size: 24px;
+}
+
+}
