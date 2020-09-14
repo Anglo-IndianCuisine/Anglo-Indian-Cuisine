@@ -422,17 +422,13 @@ text-align: center;
 
 @media (max-width:500px) {
 .feature-box {
-  padding-left: 10%;
+  padding-left: 25%;
 }
 }
 
 
 @media (max-width:560px) {
 p{
-  font-size: 24px;
-}
-
-a{
   font-size: 24px;
 }
 
