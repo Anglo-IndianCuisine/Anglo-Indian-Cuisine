@@ -60,7 +60,7 @@ a{
 
 }
 
-@media (max-width:500px) {
+@media (max-width:1080px) {
 div{
   padding-right: 10%;
 }
